@@ -13,7 +13,7 @@
 
 //Operadores bit a bit
 
-/* & , | , ^, ~, <<,  */
+/* & , | , ^, ~, <<,  , */
 
 /* Operadores lógicos */
 
